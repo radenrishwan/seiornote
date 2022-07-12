@@ -1,0 +1,24 @@
+{
+    "home": "Home", 
+    "empty_note": "Empty Note, Go Add New One",
+    "create_note": "Create Note",
+    "edit_note": "Edit Note",
+    "title": "Title",
+    "content": "Content",
+    "add_to_favorite": "Add to Favorite",
+    "remove_from_favorite": "Remove from Favorite",
+    "favorite": "Favorite",
+    "favorites_notes_title": "Favorites Notes",
+    "empty_favorite": "Empty Favorite Note, Go Add New One",
+    "cancel": "Cancel",
+    "setting": "Setting",
+    "languages": "Languages",
+    "languages_option" : {
+        "indonesia": "Indonesia",
+        "english": "English"
+    },
+    "color_accent": "Color Accent",
+    "about": "About",
+    "about_me": "About Me",
+    "exit": "Exit"
+}

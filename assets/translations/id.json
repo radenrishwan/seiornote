@@ -1,0 +1,24 @@
+{
+    "home": "Beranda", 
+    "empty_note": "Note Kosong, Ayo Buat Baru",
+    "create_note": "Buat Note",
+    "edit_note": "Edit Note",
+    "title": "Judul",
+    "content": "Konten",
+    "add_to_favorite": "Tambahkan ke Favorit",
+    "remove_from_favorite": "Hapus dari Favorit",
+    "favorite": "Favorit",
+    "favorites_notes_title": "Note Favorit",
+    "favorite_note": "Note Favorite Kosong, Add New One",
+    "cancel": "Batal",
+    "setting": "Pengaturan",
+    "languages": "Bahasa",
+    "languages_option" : {
+        "indonesia": "Indonesia",
+        "english": "English"
+    },
+    "color_accent": "Aksen Warna",
+    "about": "Tentang",
+    "about_me": "Tentang Saya",
+    "exit": "Keluar"
+}
